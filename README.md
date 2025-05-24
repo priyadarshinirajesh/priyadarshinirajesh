@@ -39,5 +39,11 @@
   <img src="https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge&logo=seaborn&logoColor=white" height="35"/>
   <img src="https://img.shields.io/static/v1?message=Jira&logo=jira&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="jira logo" />
   <img src="https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="numpy logo" />
+  <img src="https://img.shields.io/badge/ThingSpeak-005F9E?style=for-the-badge&logo=thingspeak&logoColor=white" height="35" alt="thingspeak logo" />
+  <img src="https://img.shields.io/badge/Adafruit_IO-000000?style=for-the-badge&logo=adafruit&logoColor=white" height="35" alt="adafruit io logo" />
+
+
+</a>
+
 
 </div>
