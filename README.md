@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyadarshini Rajesh</h1>
+<h1 align="center">Hi, I'm Priyadarshini Rajesh</h1>
 <h3 align="center">An innovative computer science engineering student with a passion for problem-solving and technology. As a driven and dedicated student at Amrita Vishwa Vidyapeetham, I am committed to leveraging my strong foundation in computer science and engineering to contribute to cutting-edge solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
