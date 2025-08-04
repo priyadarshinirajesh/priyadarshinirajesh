@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Priyadarshini Rajesh</h1>
-<h3 align="center">An innovative computer science engineering student with a passion for problem-solving and technology. As a driven and dedicated student at Amrita Vishwa Vidyapeetham, I am committed to leveraging my strong foundation in computer science and engineering to contribute to cutting-edge solutions.</h3>
+<h3 align="center">A passionate and inquisitive Computer Science and Engineering student at Amrita Vishwa Vidyapeetham with a strong background in algorithms, systems and future technologies. Enthusiast in discovering versatile fields ranging from software development to AI/ML, Generative AI, and LLM models to identify real-world challenges and address them through research, innovation, and ongoing learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
